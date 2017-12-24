@@ -1,0 +1,2 @@
+# AspMvcCoreAndEfCore
+exercices
